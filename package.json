@@ -1,0 +1,30 @@
+{
+  "name": "glushkivan",
+  "version": "1.0.0",
+  "description": "A collection of utilities for time and tempo calculations in music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glushkivan518/glushkivan"
+  },
+  "dependencies": {
+	  "sandrajones": "1.0.0",
+"dorothymoore": "1.0.0",
+"marinahramtsova": "1.0.0",
+"farmaniyah": "1.0.0",
+"func-pp06": "1.0.0",
+"jakea-lk": "1.0.0",
+"donaldrodriguez-os": "1.0.0",
+    "moment": "^2.29.1",
+    "tempo": "^2.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glushkivan518/glushkivan/issues"
+  },
+  "homepage": "https://github.com/glushkivan518/glushkivan#readme"
+}
